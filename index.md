@@ -16,4 +16,4 @@ This lab was very fascinating because we coded a blackjack game that added up tw
 
 Lab 10, part-1
 
-This lab was my favorite lab because it really helped me finally grasp the importance of vectors in computer science. This lab used vectors of counties, population, and the total percentage of California’s population. Using vectors to do this instead of writing out every term is so much quicker and simpler, and this lab really helped me apply vectors to real life situations. 
+This lab was my favorite lab because it really helped me finally grasp the importance of vectors in computer science. This lab used vectors of counties, population, and the total percentage of California’s population. Using vectors to do this instead of writing out every term is so much quicker and simpler, and this lab really helped me apply vectors to real life situations.
